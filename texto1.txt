@@ -1,1 +1,2 @@
 agregamos texto al documento generado de txt
+mas texto de ejemplo
